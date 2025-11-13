@@ -1,0 +1,32 @@
+payment_id,order_id,payment_method,payment_status
+PMT001,O001,Credit Card,Completed
+PMT002,O002,PayPal,Completed
+PMT003,O003,Bank Transfer,Completed
+PMT004,O004,Cash on Delivery,Completed
+PMT005,O005,Credit Card,Completed
+PMT006,O006,PayPal,Completed
+PMT007,O007,Bank Transfer,Completed
+PMT008,O008,Cash on Delivery,Pending
+PMT009,O009,Credit Card,Completed
+PMT010,O010,PayPal,Failed
+PMT011,O011,Bank Transfer,Completed
+PMT012,O012,Cash on Delivery,Completed
+PMT013,O013,Credit Card,Completed
+PMT014,O014,PayPal,Completed
+PMT015,O015,Bank Transfer,Completed
+PMT016,O016,Cash on Delivery,Completed
+PMT017,O017,Credit Card,Completed
+PMT018,O018,PayPal,Pending
+PMT019,O019,Bank Transfer,Completed
+PMT020,O020,Cash on Delivery,Completed
+PMT021,O021,Credit Card,Completed
+PMT022,O022,PayPal,Failed
+PMT023,O023,Bank Transfer,Completed
+PMT024,O024,Cash on Delivery,Completed
+PMT025,O025,Credit Card,Completed
+PMT026,O026,PayPal,Pending
+PMT027,O027,Bank Transfer,Completed
+PMT028,O028,Cash on Delivery,Completed
+PMT029,O029,Credit Card,Completed
+PMT030,O030,PayPal,Completed
+

@@ -1,0 +1,32 @@
+customer_id,name,email,country
+C001,Alice Smith,alice.smith@example.com,United States
+C002,Bob Johnson,bob.johnson@example.com,Canada
+C003,Carol Williams,carol.williams@example.com,United Kingdom
+C004,David Brown,david.brown@example.com,Australia
+C005,Emma Jones,emma.jones@example.com,Germany
+C006,Frank Miller,frank.miller@example.com,France
+C007,Grace Davis,grace.davis@example.com,India
+C008,Henry Garcia,henry.garcia@example.com,Brazil
+C009,Ivy Rodriguez,ivy.rodriguez@example.com,Japan
+C010,Jack Martinez,jack.martinez@example.com,South Africa
+C011,Karen Hernandez,karen.hernandez@example.com,United States
+C012,Liam Lopez,liam.lopez@example.com,Canada
+C013,Mia Gonzalez,mia.gonzalez@example.com,United Kingdom
+C014,Noah Wilson,noah.wilson@example.com,Australia
+C015,Olivia Anderson,olivia.anderson@example.com,Germany
+C016,Paul Thomas,paul.thomas@example.com,France
+C017,Quinn Taylor,quinn.taylor@example.com,India
+C018,Ruby Moore,ruby.moore@example.com,Brazil
+C019,Samuel Jackson,samuel.jackson@example.com,Japan
+C020,Tina Martin,tina.martin@example.com,South Africa
+C021,Uma Lee,uma.lee@example.com,United States
+C022,Vincent Perez,vincent.perez@example.com,Canada
+C023,Wendy White,wendy.white@example.com,United Kingdom
+C024,Xavier Harris,xavier.harris@example.com,Australia
+C025,Yara Clark,yara.clark@example.com,Germany
+C026,Zane Lewis,zane.lewis@example.com,France
+C027,Amelia Young,amelia.young@example.com,India
+C028,Ben King,ben.king@example.com,Brazil
+C029,Chloe Wright,chloe.wright@example.com,Japan
+C030,Daniel Scott,daniel.scott@example.com,South Africa
+

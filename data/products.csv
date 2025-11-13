@@ -1,0 +1,32 @@
+product_id,name,category,price
+P001,Wireless Mouse,Electronics,25.99
+P002,Mechanical Keyboard,Electronics,45.00
+P003,USB-C Cable,Electronics,9.99
+P004,Bluetooth Speaker,Electronics,59.95
+P005,Laptop Stand,Accessories,39.50
+P006,27-inch LED Monitor,Electronics,189.00
+P007,1TB External SSD,Electronics,129.99
+P008,Gaming Headset,Electronics,79.99
+P009,Smartphone Case,Accessories,19.99
+P010,10000mAh Power Bank,Electronics,34.99
+P011,Drip Coffee Maker,Home & Kitchen,89.00
+P012,Air Fryer,Home & Kitchen,119.00
+P013,Insulated Water Bottle,Sports & Outdoors,14.99
+P014,Yoga Mat,Sports & Outdoors,24.99
+P015,Running Shoes,Clothing,99.95
+P016,Travel Backpack,Accessories,54.99
+P017,LED Desk Lamp,Home & Office,29.99
+P018,Ergonomic Office Chair,Home & Office,249.00
+P019,Spiral Notebook,Office Supplies,3.49
+P020,Premium Pen Set,Office Supplies,12.49
+P021,Contemporary Novel,Books,16.99
+P022,Family Board Game,Toys & Games,44.99
+P023,Action Figure,Toys & Games,22.50
+P024,LEGO Creative Set,Toys & Games,59.99
+P025,Expandable Garden Hose,Garden & Outdoor,26.99
+P026,Cordless Power Drill,Tools,139.00
+P027,Car Phone Mount,Automotive,17.99
+P028,Full Synthetic Motor Oil,Automotive,29.99
+P029,Premium Cat Food,Pet Supplies,21.50
+P030,Durable Dog Leash,Pet Supplies,15.99
+
