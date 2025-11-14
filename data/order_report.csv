@@ -1,0 +1,31 @@
+customer_name,product_name,quantity,price,total_amount,payment_method,payment_status
+Alice Smith,Wireless Mouse,1,25.99,25.99,Credit Card,Completed
+Bob Johnson,Mechanical Keyboard,2,45.0,90.0,PayPal,Completed
+Carol Williams,USB-C Cable,3,9.99,29.97,Bank Transfer,Completed
+David Brown,Bluetooth Speaker,1,59.95,59.95,Cash on Delivery,Completed
+Emma Jones,Laptop Stand,2,39.5,79.0,Credit Card,Completed
+Frank Miller,27-inch LED Monitor,3,189.0,567.0,PayPal,Completed
+Grace Davis,1TB External SSD,1,129.99,129.99,Bank Transfer,Completed
+Henry Garcia,Gaming Headset,2,79.99,159.98,Cash on Delivery,Pending
+Ivy Rodriguez,Smartphone Case,3,19.99,59.97,Credit Card,Completed
+Jack Martinez,10000mAh Power Bank,1,34.99,34.99,PayPal,Failed
+Karen Hernandez,Drip Coffee Maker,2,89.0,178.0,Bank Transfer,Completed
+Liam Lopez,Air Fryer,3,119.0,357.0,Cash on Delivery,Completed
+Mia Gonzalez,Insulated Water Bottle,1,14.99,14.99,Credit Card,Completed
+Noah Wilson,Yoga Mat,2,24.99,49.98,PayPal,Completed
+Olivia Anderson,Running Shoes,3,99.95,299.85,Bank Transfer,Completed
+Paul Thomas,Travel Backpack,1,54.99,54.99,Cash on Delivery,Completed
+Quinn Taylor,LED Desk Lamp,2,29.99,59.98,Credit Card,Completed
+Ruby Moore,Ergonomic Office Chair,3,249.0,747.0,PayPal,Pending
+Samuel Jackson,Spiral Notebook,1,3.49,3.49,Bank Transfer,Completed
+Tina Martin,Premium Pen Set,2,12.49,24.98,Cash on Delivery,Completed
+Uma Lee,Contemporary Novel,3,16.99,50.97,Credit Card,Completed
+Vincent Perez,Family Board Game,1,44.99,44.99,PayPal,Failed
+Wendy White,Action Figure,2,22.5,45.0,Bank Transfer,Completed
+Xavier Harris,LEGO Creative Set,3,59.99,179.97,Cash on Delivery,Completed
+Yara Clark,Expandable Garden Hose,1,26.99,26.99,Credit Card,Completed
+Zane Lewis,Cordless Power Drill,2,139.0,278.0,PayPal,Pending
+Amelia Young,Car Phone Mount,3,17.99,53.97,Bank Transfer,Completed
+Ben King,Full Synthetic Motor Oil,1,29.99,29.99,Cash on Delivery,Completed
+Chloe Wright,Premium Cat Food,2,21.5,43.0,Credit Card,Completed
+Daniel Scott,Durable Dog Leash,3,15.99,47.97,PayPal,Completed
